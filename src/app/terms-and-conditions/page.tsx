@@ -43,7 +43,7 @@ export default function TermsAndConditions() {
               <ul className="list-disc pl-6 text-gray-700 mb-6 space-y-2">
                 <li>Once we receive your item, we will inspect it and notify you that we have received your returned item. We will immediately notify you on the status of your refund after inspecting the item.</li>
                 <li>If your return is approved, we will initiate a refund to your credit card (or original method of payment).</li>
-                <li>You will receive the credit within a certain amount of days, depending on your card issuer's policies.</li>
+                <li>You will receive the credit within a certain amount of days, depending on your card issuer&apos;s policies.</li>
               </ul>
 
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Shipping</h3>

@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import { CheckCircle, Star } from "lucide-react";
 import Header from "../../../components/Header";
 import Footer from "../../../components/Footer";
@@ -90,7 +89,7 @@ export default function ImplantsRootCanalsBridges() {
                 Sometimes a tooth that is decayed or infected needs a root canal procedure. A root canal is performed when the nerve of a tooth is infected. During the procedure, the nerve is removed and the inside of the tooth is then cleaned and sealed.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                Root canals have a bad reputation for being a painful procedure, but that is not the case. Most people don't report pain, and often the most painful part is dealing with the pain up until the procedure.
+                Root canals have a bad reputation for being a painful procedure, but that is not the case. Most people don&apos;t report pain, and often the most painful part is dealing with the pain up until the procedure.
               </p>
               
               <h3 className="text-2xl font-semibold text-[#004681] mb-4">
@@ -223,7 +222,7 @@ export default function ImplantsRootCanalsBridges() {
               Ready to Restore Your Smile?
             </h2>
             <p className="text-xl text-gray-600 max-w-4xl mx-auto mb-8">
-              For these procedures, it's best to schedule a consultation with Dr. Michael I. Wollock. Call our office at (610) 649-0313 or contact us straight from our website.
+              For these procedures, it&apos;s best to schedule a consultation with Dr. Michael I. Wollock. Call our office at (610) 649-0313 or contact us straight from our website.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-[#004681] text-white px-8 py-4 rounded-lg font-semibold hover:bg-[#003366] transition-colors">

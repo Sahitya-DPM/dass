@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import { CheckCircle, Star, MapPin, Phone, Clock, MessageCircle } from "lucide-react";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
@@ -14,7 +13,7 @@ export default function Reviews() {
 
       <PageBanner 
         title="Patient Reviews"
-        description="See what our patients have to say about their experience at Dentistry at Suburban Square. We're proud of our reputation for exceptional care and patient satisfaction."
+        description="See what our patients have to say about their experience at Dentistry at Suburban Square. We&apos;re proud of our reputation for exceptional care and patient satisfaction."
         bgImage="/cosnetic.jpeg"
       />
 
@@ -162,7 +161,7 @@ export default function Reviews() {
                 <span className="ml-2 text-sm text-gray-600">Facebook Review</span>
               </div>
               <p className="text-gray-700 mb-4 italic">
-                "The best dental experience I've ever had! The staff is friendly, the office is beautiful, and Dr. Wollock is incredibly skilled. I highly recommend this practice to anyone looking for quality dental care."
+                "The best dental experience I&apos;ve ever had! The staff is friendly, the office is beautiful, and Dr. Wollock is incredibly skilled. I highly recommend this practice to anyone looking for quality dental care."
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 bg-[#004681] rounded-full flex items-center justify-center text-white font-semibold">
@@ -185,7 +184,7 @@ export default function Reviews() {
                 <span className="ml-2 text-sm text-gray-600">Yelp Review</span>
               </div>
               <p className="text-gray-700 mb-4 italic">
-                "I was terrified of going to the dentist, but Dr. Wollock and his team completely changed that for me. They're patient, gentle, and truly care about your comfort. I can't thank them enough!"
+                "I was terrified of going to the dentist, but Dr. Wollock and his team completely changed that for me. They&apos;re patient, gentle, and truly care about your comfort. I can&apos;t thank them enough!"
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 bg-[#004681] rounded-full flex items-center justify-center text-white font-semibold">
@@ -208,7 +207,7 @@ export default function Reviews() {
                 <span className="ml-2 text-sm text-gray-600">Google Review</span>
               </div>
               <p className="text-gray-700 mb-4 italic">
-                "The Invisalign treatment I received here was life-changing. Dr. Wollock's expertise and the team's attention to detail made all the difference. My smile has never looked better!"
+                "The Invisalign treatment I received here was life-changing. Dr. Wollock&apos;s expertise and the team&apos;s attention to detail made all the difference. My smile has never looked better!"
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 bg-[#004681] rounded-full flex items-center justify-center text-white font-semibold">
@@ -231,7 +230,7 @@ export default function Reviews() {
                 <span className="ml-2 text-sm text-gray-600">Facebook Review</span>
               </div>
               <p className="text-gray-700 mb-4 italic">
-                "Professional, caring, and excellent results. The entire staff goes above and beyond to ensure you have a great experience. I've been coming here for years and wouldn't go anywhere else."
+                "Professional, caring, and excellent results. The entire staff goes above and beyond to ensure you have a great experience. I&apos;ve been coming here for years and wouldn&apos;t go anywhere else."
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 bg-[#004681] rounded-full flex items-center justify-center text-white font-semibold">

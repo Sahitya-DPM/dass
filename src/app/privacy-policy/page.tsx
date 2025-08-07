@@ -22,7 +22,7 @@ export default function PrivacyPolicy() {
           <div className="bg-white rounded-2xl shadow-xl p-8">
             <div className="prose prose-lg max-w-none">
               <p className="text-gray-600 mb-8">
-                This Privacy Policy governs the manner in which Dentistry at Suburban Square collects, uses, maintains and discloses information collected from users (each, a "User") of the dentistryatsuburbansquare.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Dentistry at Suburban Square.
+                This Privacy Policy governs the manner in which Dentistry at Suburban Square collects, uses, maintains and discloses information collected from users (each, a &quot;User&quot;) of the dentistryatsuburbansquare.com website (&quot;Site&quot;). This privacy policy applies to the Site and all products and services offered by Dentistry at Suburban Square.
               </p>
 
               <h2 className="text-2xl font-bold text-[#004681] mb-4">Personal identification information</h2>
@@ -37,7 +37,7 @@ export default function PrivacyPolicy() {
 
               <h2 className="text-2xl font-bold text-[#004681] mb-4">Web browser cookies</h2>
               <p className="text-gray-700 mb-6">
-                Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+                Our Site may use &quot;cookies&quot; to enhance User experience. User&apos;s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
               </p>
 
               <h2 className="text-2xl font-bold text-[#004681] mb-4">How we use collected information</h2>
@@ -62,7 +62,7 @@ export default function PrivacyPolicy() {
 
               <h2 className="text-2xl font-bold text-[#004681] mb-4">Third party websites</h2>
               <p className="text-gray-700 mb-6">
-                Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+                Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website&apos;s own terms and policies.
               </p>
 
               <h2 className="text-2xl font-bold text-[#004681] mb-4">Changes to this privacy policy</h2>

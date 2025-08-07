@@ -2,8 +2,7 @@
 
 
 import Image from "next/image";
-import Link from "next/link";
-import { CheckCircle, Star, MapPin, Phone, Clock, Play } from "lucide-react";
+import { CheckCircle } from "lucide-react";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 import PageBanner from "../../components/PageBanner";

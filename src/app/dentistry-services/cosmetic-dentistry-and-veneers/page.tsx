@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import { CheckCircle, Star } from "lucide-react";
 import Header from "../../../components/Header";
 import Footer from "../../../components/Footer";
@@ -92,7 +91,7 @@ export default function CosmeticDentistry() {
               </h3>
               <div className="space-y-2">
                 {[
-                  "Discolored teeth that don't respond to whitening",
+                  "Discolored teeth that don&apos;t respond to whitening",
                   "Chipped or worn teeth",
                   "Misaligned, uneven, or irregularly shaped teeth",
                   "Teeth with gaps between them",
@@ -117,7 +116,7 @@ export default function CosmeticDentistry() {
               Schedule Your Cosmetic Consultation
             </h2>
             <p className="text-xl text-gray-600 max-w-4xl mx-auto mb-8">
-              During your consultation, Dr. Wollock will examine your teeth and discuss your cosmetic goals. We'll create a personalized treatment plan that addresses your specific needs and helps you achieve the smile you've always wanted.
+              During your consultation, Dr. Wollock will examine your teeth and discuss your cosmetic goals. We&apos;ll create a personalized treatment plan that addresses your specific needs and helps you achieve the smile you&apos;ve always wanted.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-[#004681] text-white px-8 py-4 rounded-lg font-semibold hover:bg-[#003366] transition-colors">

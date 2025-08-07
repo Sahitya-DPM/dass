@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import { CheckCircle, Star } from "lucide-react";
 import Header from "../../../components/Header";
 import Footer from "../../../components/Footer";
@@ -14,7 +13,7 @@ export default function FillingsAndCrowns() {
 
       <PageBanner 
         title="Fillings and Crowns"
-        description="If you have a decaying, cracked, or fractured tooth, then you may be in need of a crown or a filling. Don't wait around for a decaying tooth to just disappear, as you could then be faced with bigger and more expensive problems. Dentistry at Suburban Square is skilled at dealing with these oral problems, and we can gladly help you decide if you are in need of a crown or a filling."
+        description="If you have a decaying, cracked, or fractured tooth, then you may be in need of a crown or a filling. Don&apos;t wait around for a decaying tooth to just disappear, as you could then be faced with bigger and more expensive problems. Dentistry at Suburban Square is skilled at dealing with these oral problems, and we can gladly help you decide if you are in need of a crown or a filling."
         bgImage="/cosnetic.jpeg"
       />
 
@@ -84,7 +83,7 @@ export default function FillingsAndCrowns() {
                 What is a Crown?
               </h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                A dental crown acts as a cap, as it is a covering that encases the entire tooth's surface, restoring it to its original shape and size. A crown is often needed when a filling can't do the job, and a crown protects the overall tooth structure. Porcelain crowns are popular because they match the color of your teeth and are highly durable. Newer crowns are also resistant to grinding and other abuses. When you need a crown, we customize it to match the size, shape, and colors of your teeth.
+                A dental crown acts as a cap, as it is a covering that encases the entire tooth&apos;s surface, restoring it to its original shape and size. A crown is often needed when a filling can&apos;t do the job, and a crown protects the overall tooth structure. Porcelain crowns are popular because they match the color of your teeth and are highly durable. Newer crowns are also resistant to grinding and other abuses. When you need a crown, we customize it to match the size, shape, and colors of your teeth.
               </p>
               
               <h3 className="text-2xl font-semibold text-[#004681] mb-4">

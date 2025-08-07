@@ -72,7 +72,7 @@ export default function Contact() {
               <div>
                 <h2 className="text-3xl font-bold text-[#004681] mb-6">Get in Touch</h2>
                 <p className="text-gray-600 mb-8">
-                  We're here to help you achieve the smile you've always wanted. Contact us today to schedule your consultation or ask any questions about our services.
+                  We&apos;re here to help you achieve the smile you&apos;ve always wanted. Contact us today to schedule your consultation or ask any questions about our services.
                 </p>
               </div>
 
@@ -143,7 +143,7 @@ export default function Contact() {
               
               {submitStatus === "success" && (
                 <div className="bg-green-50 border border-green-200 text-green-800 px-4 py-3 rounded-lg mb-6">
-                  Thank you for your message! We'll get back to you as soon as possible.
+                  Thank you for your message! We&apos;ll get back to you as soon as possible.
                 </div>
               )}
 

@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import { CheckCircle, Star, MapPin, Phone, Clock, Shield } from "lucide-react";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
@@ -152,7 +151,7 @@ export default function InsuranceAccepted() {
               Understanding Your Dental Benefits
             </h2>
             <p className="text-xl text-gray-600 max-w-4xl mx-auto">
-              Dental insurance can be complex. Here's what you need to know about your coverage.
+              Dental insurance can be complex. Here&apos;s what you need to know about your coverage.
             </p>
           </div>
 
@@ -212,7 +211,7 @@ export default function InsuranceAccepted() {
           <div className="grid lg:grid-cols-2 gap-8">
             <div className="bg-white rounded-xl p-6">
               <h3 className="text-lg font-semibold text-gray-900 mb-3">
-                What if my insurance doesn't cover a procedure?
+                What if my insurance doesn&apos;t cover a procedure?
               </h3>
               <p className="text-gray-600">
                 We offer flexible payment plans and can work with you to find affordable solutions. We also accept CareCredit and other financing options.
@@ -224,7 +223,7 @@ export default function InsuranceAccepted() {
                 Do you accept out-of-network insurance?
               </h3>
               <p className="text-gray-600">
-                Yes, we can work with out-of-network plans. While your benefits may be different, we'll help you maximize what's available.
+                Yes, we can work with out-of-network plans. While your benefits may be different, we&apos;ll help you maximize what&apos;s available.
               </p>
             </div>
             
@@ -233,7 +232,7 @@ export default function InsuranceAccepted() {
                 How do I know what my insurance covers?
               </h3>
               <p className="text-gray-600">
-                We'll verify your benefits before treatment and provide a detailed breakdown of your coverage and estimated costs.
+                We&apos;ll verify your benefits before treatment and provide a detailed breakdown of your coverage and estimated costs.
               </p>
             </div>
             

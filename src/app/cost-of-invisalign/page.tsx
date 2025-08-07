@@ -51,7 +51,7 @@ export default function CostOfInvisalign() {
               <div>
                 <h3 className="text-xl font-bold text-gray-900 mb-3">Flexible Payment Options</h3>
                 <p className="text-gray-700 mb-4">
-                  We understand that the cost of Invisalign treatment can be a concern for many patients. That's why we offer flexible payment options to make treatment more affordable:
+                  We understand that the cost of Invisalign treatment can be a concern for many patients. That&apos;s why we offer flexible payment options to make treatment more affordable:
                 </p>
                 <ul className="space-y-2 text-gray-700 mb-4">
                   <li>• $250 down payment</li>
@@ -109,7 +109,7 @@ export default function CostOfInvisalign() {
           <div className="bg-white rounded-2xl shadow-xl p-8 mb-16">
             <h2 className="text-3xl font-bold text-[#004681] mb-6">Conclusion</h2>
             <p className="text-gray-700 mb-6">
-              The cost of Invisalign treatment at Dentistry at Suburban Square is competitive and affordable. With our all-inclusive pricing and flexible payment options, we make it possible for everyone to achieve the smile they've always wanted.
+              The cost of Invisalign treatment at Dentistry at Suburban Square is competitive and affordable. With our all-inclusive pricing and flexible payment options, we make it possible for everyone to achieve the smile they&apos;ve always wanted.
             </p>
             <p className="text-gray-700 mb-6">
               If you are interested in Invisalign treatment, we encourage you to schedule a consultation with Dr. Wollock to discuss your options and determine if Invisalign is right for you.

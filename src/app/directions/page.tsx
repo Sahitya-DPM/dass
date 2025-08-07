@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import { CheckCircle, Star, MapPin, Phone, Clock, Navigation } from "lucide-react";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
@@ -102,7 +101,7 @@ export default function Directions() {
               How to Find Us
             </h2>
             <p className="text-xl text-gray-600 max-w-4xl mx-auto">
-              We're conveniently located in Suburban Square, making it easy to reach us from anywhere in the Main Line area.
+              We&apos;re conveniently located in Suburban Square, making it easy to reach us from anywhere in the Main Line area.
             </p>
           </div>
 
@@ -164,7 +163,7 @@ export default function Directions() {
                 Parking Information
               </h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                Suburban Square offers convenient parking options for our patients. Here's what you need to know about parking when visiting our office.
+                Suburban Square offers convenient parking options for our patients. Here&apos;s what you need to know about parking when visiting our office.
               </p>
               
               <div className="space-y-4">
@@ -240,7 +239,7 @@ export default function Directions() {
               Nearby Amenities
             </h2>
             <p className="text-xl text-gray-600 max-w-4xl mx-auto">
-              While you're in Suburban Square, take advantage of the many shops, restaurants, and services available.
+              While you&apos;re in Suburban Square, take advantage of the many shops, restaurants, and services available.
             </p>
           </div>
 
@@ -288,7 +287,7 @@ export default function Directions() {
               Ready to Visit Our Office?
             </h2>
             <p className="text-xl text-gray-600 max-w-4xl mx-auto mb-8">
-              We look forward to welcoming you to our practice. If you need any assistance with directions, please don't hesitate to call us.
+              We look forward to welcoming you to our practice. If you need any assistance with directions, please don&apos;t hesitate to call us.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a 

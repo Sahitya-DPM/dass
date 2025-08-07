@@ -2,8 +2,7 @@
 
 import { useState } from "react";
 import Image from "next/image";
-import Link from "next/link";
-import { CheckCircle, Star, MapPin, Phone, Clock } from "lucide-react";
+import { MapPin, Phone, Clock } from "lucide-react";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 import PageBanner from "../../components/PageBanner";
@@ -124,7 +123,7 @@ Michael is known for his attention to detail and his ability to help patients fe
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Patient-Centered Care</h3>
               <p className="text-gray-600">
-                Every decision we make is focused on what's best for our patients. We take the time to listen to your concerns and develop personalized treatment plans.
+                Every decision we make is focused on what&apos;s best for our patients. We take the time to listen to your concerns and develop personalized treatment plans.
               </p>
             </div>
             

@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import { CheckCircle, Star, MapPin, Phone, Clock, DollarSign } from "lucide-react";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
